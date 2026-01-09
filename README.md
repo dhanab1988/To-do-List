@@ -55,7 +55,7 @@ To-do-list
 ##  Live Demo (Optional)
 
 If hosted on GitHub Pages, visit:
-`https://dhanab1988.github.io/To-do-list/`
+`https://dhanab1988.github.io/To-do-list/](https://dhanab1988.github.io/To-do-List/`
 
 ---
 
